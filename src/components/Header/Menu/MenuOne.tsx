@@ -77,18 +77,23 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                         </div>
                         <div className="left flex items-center gap-16">
                             <Link href={'/'} className='flex items-center max-lg:absolute max-lg:left-1/2 max-lg:-translate-x-1/2'>
-                                <div className="heading4">Anvogue</div>
+                                <div className="heading4"> <Image
+      src={'/images/avatar/KivorLogo.png'}
+      width={100}
+      height={100}
+      alt="Picture of the author"
+    /></div>
                             </Link>
                             <div className="menu-main h-full max-lg:hidden">
                                 <ul className='flex items-center gap-8 h-full'>
                                     <li className='h-full relative'>
                                         <Link
-                                            href="#!"
+                                            href="/"
                                             className={`text-button-uppercase duration-300 h-full flex items-center justify-center gap-1 ${pathname === '/' ? 'active' : ''}`}
                                         >
-                                            Demo
+                                          Home
                                         </Link>
-                                        <div className="sub-menu py-3 px-5 -left-10 w-max absolute grid grid-cols-4 gap-5 bg-white rounded-b-xl">
+                                        {/* <div className="sub-menu py-3 px-5 -left-10 w-max absolute grid grid-cols-4 gap-5 bg-white rounded-b-xl">
                                             <ul>
                                                 <li>
                                                     <Link href="/" className={`link text-secondary duration-300 ${pathname === '/' ? 'active' : ''}`}>
@@ -212,11 +217,11 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                     </Link>
                                                 </li>
                                             </ul>
-                                        </div>
+                                        </div> */}
                                     </li>
                                     <li className='h-full'>
                                         <Link href="#!" className='text-button-uppercase duration-300 h-full flex items-center justify-center'>
-                                            Features
+                                            Products
                                         </Link>
                                         <div className="mega-menu absolute top-[74px] left-0 bg-white w-screen">
                                             <div className="container">
@@ -268,7 +273,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                             </ul>
                                                         </div>
                                                         <div className="nav-item">
-                                                            <div className="text-button-uppercase pb-2">Massimo Dutti</div>
+                                                            <div className="text-button-uppercase pb-2">For Working Wear</div>
                                                             <ul>
                                                                 <li>
                                                                     <div
@@ -313,14 +318,14 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                             </ul>
                                                         </div>
                                                         <div className="nav-item">
-                                                            <div className="text-button-uppercase pb-2">Skincare</div>
+                                                            <div className="text-button-uppercase pb-2">Summer</div>
                                                             <ul>
                                                                 <li>
                                                                     <div
                                                                         onClick={() => handleTypeClick('face')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
-                                                                        Faces Skin
+                                                                       Dresses
                                                                     </div>
                                                                 </li>
                                                                 <li>
@@ -328,7 +333,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                                         onClick={() => handleTypeClick('eye')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
-                                                                        Eyes Makeup
+                                                                      T-Shirts
                                                                     </div>
                                                                 </li>
                                                                 <li>
@@ -336,7 +341,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                                         onClick={() => handleTypeClick('lip')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
-                                                                        Lip Polish
+                                                                       Underware
                                                                     </div>
                                                                 </li>
                                                                 <li>
@@ -344,7 +349,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                                         onClick={() => handleTypeClick('hair')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
-                                                                        Hair Care
+                                                                      3pies
                                                                     </div>
                                                                 </li>
                                                                 <li>
@@ -357,7 +362,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                                 </li>
                                                             </ul>
                                                         </div>
-                                                        <div className="nav-item">
+                                                        {/* <div className="nav-item">
                                                             <div className="text-button-uppercase pb-2">Health</div>
                                                             <ul>
                                                                 <li>
@@ -401,7 +406,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                                     </div>
                                                                 </li>
                                                             </ul>
-                                                        </div>
+                                                        </div> */}
                                                         <div className="nav-item">
                                                             <div className="text-button-uppercase pb-2">For Women</div>
                                                             <ul>
@@ -493,7 +498,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                             </ul>
                                                         </div>
                                                         <div className="nav-item">
-                                                            <div className="text-button-uppercase pb-2">For Home</div>
+                                                            <div className="text-button-uppercase pb-2">Winter</div>
                                                             <ul>
                                                                 <li>
                                                                     <div
@@ -501,7 +506,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
 
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
-                                                                        Furniture | Decor
+                                                                       Shirt
                                                                     </div>
                                                                 </li>
                                                                 <li>
@@ -509,7 +514,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                                         onClick={() => handleTypeClick('table')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
-                                                                        Table | Living Room
+                                                                       Tops
                                                                     </div>
                                                                 </li>
                                                                 <li>
@@ -517,7 +522,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                                         onClick={() => handleTypeClick('chair')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
-                                                                        Chair | Work Room
+                                                                      Panjabi
                                                                     </div>
                                                                 </li>
                                                                 <li>
@@ -525,7 +530,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                                         onClick={() => handleTypeClick('lighting')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
-                                                                        Lighting | Bed Room
+                                                                       Polo
                                                                     </div>
                                                                 </li>
                                                                 <li>
@@ -577,7 +582,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                             </div>
                                         </div>
                                     </li>
-                                    <li className='h-full'>
+                                    {/* <li className='h-full'>
                                         <Link
                                             href="#!"
                                             className={`text-button-uppercase duration-300 h-full flex items-center justify-center ${pathname.includes('/shop/') ? 'active' : ''}`}
@@ -796,8 +801,8 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                 </div>
                                             </div>
                                         </div>
-                                    </li>
-                                    <li className='h-full'>
+                                    </li> */}
+                                    {/* <li className='h-full'>
                                         <Link
                                             href="#!"
                                             className={`text-button-uppercase duration-300 h-full flex items-center justify-center ${pathname.includes('/product/') ? 'active' : ''}`}
@@ -1014,7 +1019,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                 </div>
                                             </div>
                                         </div>
-                                    </li>
+                                    </li> */}
                                     <li className='h-full relative'>
                                         <Link href="#!" className={`text-button-uppercase duration-300 h-full flex items-center justify-center ${pathname.includes('/blog') ? 'active' : ''}`}>
                                             Blog
@@ -1065,31 +1070,31 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                         Contact Us
                                                     </Link>
                                                 </li>
-                                                <li>
+                                                {/* <li>
                                                     <Link href="/pages/store-list" className={`link text-secondary duration-300 ${pathname === '/pages/store-list' ? 'active' : ''}`}>
                                                         Store List
                                                     </Link>
-                                                </li>
-                                                <li>
+                                                </li> */}
+                                                {/* <li>
                                                     <Link href="/pages/page-not-found" className={`link text-secondary duration-300 ${pathname === '/pages/page-not-found' ? 'active' : ''}`}>
                                                         404
                                                     </Link>
-                                                </li>
+                                                </li> */}
                                                 <li>
                                                     <Link href="/pages/faqs" className={`link text-secondary duration-300 ${pathname === '/pages/faqs' ? 'active' : ''}`}>
                                                         FAQs
                                                     </Link>
                                                 </li>
-                                                <li>
+                                                {/* <li>
                                                     <Link href="/pages/coming-soon" className={`link text-secondary duration-300 ${pathname === '/pages/coming-soon' ? 'active' : ''}`}>
                                                         Coming Soon
                                                     </Link>
-                                                </li>
-                                                <li>
+                                                </li> */}
+                                                {/* <li>
                                                     <Link href="/pages/customer-feedbacks" className={`link text-secondary duration-300 ${pathname === '/pages/customer-feedbacks' ? 'active' : ''}`}>
                                                         Customer Feedbacks
                                                     </Link>
-                                                </li>
+                                                </li> */}
                                             </ul>
                                         </div>
                                     </li>
@@ -1141,7 +1146,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                 >
                                     <Icon.X size={14} />
                                 </div>
-                                <Link href={'/'} className='logo text-3xl font-semibold text-center'>Anvogue</Link>
+                                <Link href={'/'} className='logo text-3xl font-semibold text-center'>KIVOR</Link>
                             </div>
                             <div className="form-search relative mt-2">
                                 <Icon.MagnifyingGlass size={20} className='absolute left-3 top-1/2 -translate-y-1/2 cursor-pointer' />
@@ -1534,14 +1539,14 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                         </ul>
                                                     </div>
                                                     <div className="nav-item">
-                                                        <div className="text-button-uppercase pb-1">For Home</div>
+                                                        <div className="text-button-uppercase pb-1">Winter</div>
                                                         <ul>
                                                             <li>
                                                                 <div
                                                                     onClick={() => handleCategoryClick('furniture')}
                                                                     className={`link text-secondary duration-300 cursor-pointer`}
                                                                 >
-                                                                    Furniture | Decor
+                                                                    Furniture | Decorgjgj
                                                                 </div>
                                                             </li>
                                                             <li>

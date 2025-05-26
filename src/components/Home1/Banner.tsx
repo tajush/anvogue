@@ -9,7 +9,7 @@ const Banner = () => {
                 <Link href={'/shop/breadcrumb-img'} className="banner-item relative block overflow-hidden duration-500">
                     <div className="banner-img">
                         <Image
-                            src={'/images/banner/1.png'}
+                            src={'/images/banner/BottleGreencolororganzapremium3pcs.webp'}
                             width={2000}
                             height={1300}
                             alt='banner1'
@@ -25,7 +25,7 @@ const Banner = () => {
                 <Link href={'/shop/breadcrumb-img'} className="banner-item relative block overflow-hidden duration-500">
                     <div className="banner-img">
                         <Image
-                            src={'/images/banner/2.png'}
+                            src={'/images/banner/EWR-MM-0002-1.webp'}
                             width={2000}
                             height={1300}
                             alt='banner2'

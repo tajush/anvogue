@@ -678,6 +678,7 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
             )
             }
 
+
             {type === 'marketplace' ? (
                 <div className="product-item style-marketplace p-4 border border-line rounded-2xl" onClick={() => handleDetailProduct(data.id)}>
                     <div className="bg-img relative w-full">

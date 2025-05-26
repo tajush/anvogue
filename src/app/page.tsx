@@ -23,16 +23,17 @@ export default function Home() {
         <MenuOne props="bg-transparent" />
         <SliderOne />
       </div>
+       <Collection />
       <WhatNewOne data={productData} start={0} limit={4} />
-      <Collection />
+     
       <TabFeatures data={productData} start={0} limit={6} />
       <Banner />
       <Benefit props="md:py-20 py-10" />
       <Testimonial data={testimonialData} limit={6} />
-      <Instagram />
-      <Brand />
+      {/* <Instagram /> */}
+      {/* <Brand /> */}
       <Footer />
-      <ModalNewsletter />
+      {/* <ModalNewsletter /> */}
     </>
   )
 }

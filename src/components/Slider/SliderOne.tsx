@@ -75,7 +75,7 @@ const SliderOne = () => {
                                     </div>
                                     <div className="sub-img absolute sm:w-1/2 w-2/3 2xl:-right-[60px] -right-[36px] sm:bottom-0 -bottom-[30px]">
                                         <Image className="rounded-lg"
-                                            src={'/images/slider/Web-13.png'}
+                                            src={'/images/slider/Web-14.png'}
                                             width={670}
                                             height={936}
                                             alt='bg1-3'
