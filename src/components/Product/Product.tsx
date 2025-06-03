@@ -235,7 +235,7 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                             Quick View
                                         </div>
                                     )}
-                                    {data.action === 'add to cart' ? (
+                                    {/* {data.action === 'add to cart' ? (
                                         <div
                                             className="add-cart-btn w-full text-button-uppercase py-2 text-center rounded-full duration-500 bg-white hover:bg-black hover:text-white"
                                             onClick={e => {
@@ -284,7 +284,7 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                                 </div>
                                             </div>
                                         </>
-                                    )}
+                                    )} */}
                                 </div>
                                 : <></>
                             }
@@ -552,7 +552,7 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                                         setOpenQuickShop(false)
                                                     }}
                                                 >
-                                                    Add To cart
+                                                    Add To cartdfe
                                                 </div>
                                             </div>
                                         </div>
