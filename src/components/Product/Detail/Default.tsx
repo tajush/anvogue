@@ -318,8 +318,8 @@ const Default: React.FC<Props> = ({ data, productId }) => {
                                         ))}
                                     </div>
                                 </div>
-                                <div className="text-title mt-5">Quantity:</div>
-                                <div className="choose-quantity flex items-center lg:justify-between gap-5 gap-y-3 mt-3">
+                                {/* <div className="text-title mt-5">Quantity:</div> */}
+                                {/* <div className="choose-quantity flex items-center lg:justify-between gap-5 gap-y-3 mt-3">
                                     <div className="quantity-block md:p-3 max-md:py-1.5 max-md:px-3 flex items-center justify-between rounded-lg border border-line sm:w-[180px] w-[120px] flex-shrink-0">
                                         <Icon.Minus
                                             size={20}
@@ -334,10 +334,10 @@ const Default: React.FC<Props> = ({ data, productId }) => {
                                         />
                                     </div>
                                     <div onClick={handleAddToCart} className="button-main w-full text-center bg-white text-black border border-black">Add To Cart</div>
-                                </div>
-                                <div className="button-block mt-5">
+                                </div> */}
+                                {/* <div className="button-block mt-5">
                                     <div className="button-main w-full text-center">Buy It Now</div>
-                                </div>
+                                </div> */}
                                 <div className="flex items-center lg:gap-20 gap-8 mt-5 pb-6 border-b border-line">
                                     <div className="compare flex items-center gap-3 cursor-pointer" onClick={(e) => { e.stopPropagation(); handleAddToCompare() }}>
                                         <div className="compare-btn md:w-12 md:h-12 w-10 h-10 flex items-center justify-center border border-line cursor-pointer rounded-xl duration-300 hover:bg-black hover:text-white">
