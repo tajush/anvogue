@@ -19,7 +19,9 @@ import Rate from '../Other/Rate'
 interface ProductProps {
     data: ProductType
     type: string
-    style: string
+    style?: string
+    
+    
 }
 
 const Product: React.FC<ProductProps> = ({ data, type, style }) => {
