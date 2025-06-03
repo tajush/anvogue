@@ -26,8 +26,8 @@ const Footer = () => {
                                         <span className="text-button mt-3">Address:</span>
                                     </div>
                                     <div className="flex flex-col ">
-                                        <span className=''>hi.avitex@gmail.com</span>
-                                        <span className='mt-3'>1-333-345-6868</span>
+                                        <span className=''>info@seagultrades.com</span>
+                                        <span className='mt-3'>+31687113810 </span>
                                         <span className='mt-3 pt-px'>549 Oak St.Crystal Lake, IL 60014</span>
                                     </div>
                                 </div>

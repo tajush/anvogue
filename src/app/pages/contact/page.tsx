@@ -29,6 +29,20 @@ const ContactUs = () => {
                                     <div className="email">
                                         <input className="border-line px-4 pt-3 pb-3 w-full rounded-lg" id="email" type="email" placeholder="Your Email *" required />
                                     </div>
+                                    <div className="category sm:col-span-2">
+            <label className="block mb-2 font-semibold">Select Category:</label>
+            <div className="flex flex-wrap gap-2">
+                {["Men", "Women", "Kids", "Summer", "Winter", "Working Wear"].map((cat) => (
+                    <button
+                        key={cat}
+                        type="button"
+                        className="px-4 py-2 border border-gray-300 rounded-lg hover:bg-black hover:text-white transition"
+                    >
+                        {cat}
+                    </button>
+                ))}
+            </div>
+        </div>
                                     <div className="message sm:col-span-2">
                                         <textarea className="border-line px-4 pt-3 pb-3 w-full rounded-lg" id="message" rows={3} placeholder="Your Message *" required />
                                     </div>
@@ -42,8 +56,8 @@ const ContactUs = () => {
                             <div className="item">
                                 <div className="heading4">Our Store</div>
                                 <p className="mt-3">2163 Phillips Gap Rd, West Jefferson, North Carolina, United States</p>
-                                <p className="mt-3">Phone: <span className='whitespace-nowrap'>+1 666 8888</span></p>
-                                <p className="mt-1">Email: <span className='whitespace-nowrap'>hi.avitex@gmail.com</span></p>
+                                <p className="mt-3">Phone: <span className='whitespace-nowrap'>+31687113810</span></p>
+                                <p className="mt-1">Email: <span className='whitespace-nowrap'>info@seagultrades.com</span></p>
                             </div>
                             <div className="item mt-10">
                                 <div className="heading4">Open Hours</div>
