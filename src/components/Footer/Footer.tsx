@@ -111,7 +111,7 @@ const Footer = () => {
                                     </div>
                                 </div>
                             </div>
-                            <div className="right flex items-center gap-2">
+                            {/* <div className="right flex items-center gap-2">
                                 <div className="caption1 text-secondary">Payment:</div>
                                 <div className="payment-img">
                                     <Image
@@ -167,7 +167,7 @@ const Footer = () => {
                                         className='w-9'
                                     />
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>
