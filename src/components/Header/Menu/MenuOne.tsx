@@ -1020,7 +1020,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                             </div>
                                         </div>
                                     </li> */}
-                                    <li className='h-full relative'>
+                                    {/* <li className='h-full relative'>
                                         <Link href="#!" className={`text-button-uppercase duration-300 h-full flex items-center justify-center ${pathname.includes('/blog') ? 'active' : ''}`}>
                                             Blog
                                         </Link>
@@ -1053,7 +1053,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                 </li>
                                             </ul>
                                         </div>
-                                    </li>
+                                    </li> */}
                                     <li className='h-full relative'>
                                         <Link href="#!" className={`text-button-uppercase duration-300 h-full flex items-center justify-center ${pathname.includes('/pages') ? 'active' : ''}`}>
                                             Pages
