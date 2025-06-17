@@ -11,7 +11,7 @@ import { useWishlist } from '@/context/WishlistContext'
 import { useModalWishlistContext } from '@/context/ModalWishlistContext'
 import { useCompare } from '@/context/CompareContext'
 import { useModalCompareContext } from '@/context/ModalCompareContext'
-import { useModalQuickviewContext } from '@/context/ModalQuickviewContext'
+// import { useModalQuickviewContext } from '@/context/ModalQuickviewContext'
 import { useRouter } from 'next/navigation'
 import Marquee from 'react-fast-marquee'
 import Rate from '../Other/Rate'
@@ -34,7 +34,7 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
     const { openModalWishlist } = useModalWishlistContext()
     const { addToCompare, removeFromCompare, compareState } = useCompare();
     const { openModalCompare } = useModalCompareContext()
-    const { openQuickview } = useModalQuickviewContext()
+    // const { openQuickview } = useModalQuickviewContext()
     const router = useRouter()
 
     const handleActiveColor = (item: string) => {
@@ -100,16 +100,16 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                 <div className={`product-item grid-type ${style}`}>
                     <div onClick={() => handleDetailProduct(data.id)} className="product-main cursor-pointer block">
                         <div className="product-thumb bg-white relative overflow-hidden rounded-2xl">
-                            {data.new && (
+                            {/* {data.new && (
                                 <div className="product-tag text-button-uppercase bg-green px-3 py-0.5 inline-block rounded-full absolute top-3 left-3 z-[1]">
                                     New
                                 </div>
-                            )}
-                            {data.sale && (
+                            )} */}
+                            {/* {data.sale && (
                                 <div className="product-tag text-button-uppercase text-white bg-red px-3 py-0.5 inline-block rounded-full absolute top-3 left-3 z-[1]">
                                     Sale
                                 </div>
-                            )}
+                            )} */}
                             {style === 'style-1' || style === 'style-3' || style === 'style-4' ? (
                                 <div className="list-action-right absolute top-3 right-3 max-lg:hidden">
                                     {style === 'style-4' && (
@@ -199,7 +199,7 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                     </>
                                 )}
                             </div>
-                            {data.sale && (
+                            {/* {data.sale && (
                                 <>
                                     <Marquee className='banner-sale-auto bg-black absolute bottom-0 left-0 w-full py-1.5'>
                                         <div className={`caption2 font-semibold uppercase text-white px-2.5`}>Hot Sale {percentSale}% OFF</div>
@@ -214,7 +214,7 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                         <Icon.Lightning weight='fill' className='text-red' />
                                     </Marquee>
                                 </>
-                            )}
+                            )} */}
                             {style === 'style-2' || style === 'style-4' ? (
                                 <div className="list-size-block flex items-center justify-center gap-4 absolute bottom-0 left-0 w-full h-8">
                                     {data.sizes.map((item, index) => (
@@ -396,7 +396,7 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                 </div>
                             </div>
                         </div>
-                        <div className="product-infor mt-4 lg:mb-7">
+                        {/* <div className="product-infor mt-4 lg:mb-7">
                             <div className="product-sold sm:pb-4 pb-2">
                                 <div className="progress bg-line h-1.5 w-full rounded-full overflow-hidden relative">
                                     <div
@@ -494,7 +494,7 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                     )}
                                 </>
                             }
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             ) : (
@@ -504,16 +504,16 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                             <div className="product-item list-type">
                                 <div className="product-main cursor-pointer flex lg:items-center sm:justify-between gap-7 max-lg:gap-5">
                                     <div onClick={() => handleDetailProduct(data.id)} className="product-thumb bg-white relative overflow-hidden rounded-2xl block max-sm:w-1/2">
-                                        {data.new && (
+                                        {/* {data.new && (
                                             <div className="product-tag text-button-uppercase bg-green px-3 py-0.5 inline-block rounded-full absolute top-3 left-3 z-[1]">
                                                 New
                                             </div>
-                                        )}
-                                        {data.sale && (
+                                        )} */}
+                                        {/* {data.sale && (
                                             <div className="product-tag text-button-uppercase text-white bg-red px-3 py-0.5 inline-block rounded-full absolute top-3 left-3 z-[1]">
                                                 Sale
                                             </div>
-                                        )}
+                                        )} */}
                                         <div className="product-img w-full aspect-[3/4] rounded-2xl overflow-hidden">
                                             {data.thumbImage.map((img, index) => (
                                                 <Image

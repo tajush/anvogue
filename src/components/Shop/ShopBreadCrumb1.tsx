@@ -415,7 +415,7 @@ const ShopBreadCrumb1: React.FC<Props> = ({ data, productPerPage, dataType, gend
                                         <label htmlFor="filter-sale" className='cation1 cursor-pointer'>Show only products on sale</label>
                                     </div>
                                 </div>
-                                <div className="right flex items-center gap-3">
+                                {/* <div className="right flex items-center gap-3">
                                     <div className="select-block relative">
                                         <select
                                             id="select-filter"
@@ -432,7 +432,7 @@ const ShopBreadCrumb1: React.FC<Props> = ({ data, productPerPage, dataType, gend
                                         </select>
                                         <Icon.CaretDown size={12} className='absolute top-1/2 -translate-y-1/2 md:right-4 right-2' />
                                     </div>
-                                </div>
+                                </div> */}
                             </div>
 
                             <div className="list-filtered flex items-center gap-3 mt-4">
