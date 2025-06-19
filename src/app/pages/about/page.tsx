@@ -27,7 +27,7 @@ const AboutUs = () => {
                                 <div className="body1 text-center md:mt-7 mt-5">Kim Kardashian West needs no introduction. In the 14 years since she first graced our screens in Keeping Up With The Kardashians, she has built her KKW beauty empire, filmed her show, wrapped her show, become a billionaire, studied law, campaigned for the rights of death row inmates, travelled the world to attend events such as Paris Fashion Week, raised four children and launched her wildly successful shapewear brand SKIMS.</div>
                             </div>
                         </div>
-                        <div className="list-img grid sm:grid-cols-3 gap-[30px] md:pt-20 pt-10">
+                        {/* <div className="list-img grid sm:grid-cols-3 gap-[30px] md:pt-20 pt-10">
                             <div className="bg-img">
                                 <Image
                                     src={'/images/other/about-us1.png'}
@@ -55,14 +55,40 @@ const AboutUs = () => {
                                     className='w-full rounded-[30px]'
                                 />
                             </div>
-                        </div>
+                        </div> */}
+                        <div className="pdf-image-section md:pt-20 pt-10">
+  <div className="container">
+    <div className="grid md:grid-cols-2 gap-10 items-center">
+      {/* Left: PDF Embed */}
+      <div className="w-full h-[700px] border rounded-xl overflow-hidden">
+        <iframe
+          src="/images/product/Permanente.pdf"
+          className="w-full h-full"
+          frameBorder="0"
+        ></iframe>
+      </div>
+
+      {/* Right: Image */}
+      <div className="w-full h-[700px]">
+        <Image
+          src="/images/product/WhatsApp Image 2025-06-17 at 16.37.43_9db7d60a.jpg"
+          width={800}
+          height={700}
+          alt="PDF Related Visual"
+          className="w-full h-full object-cover rounded-xl"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+
                     </div>
                 </div>
             </div>
-            <Benefit props="md:pt-20 pt-10" />
+            {/* <Benefit props="md:pt-20 pt-10" />
             <Newsletter props="bg-green md:mt-20 mt-10" />
-            <Instagram />
-            <Brand />
+            <Instagram /> */}
+            {/* <Brand /> */}
             <Footer />
         </>
     )
