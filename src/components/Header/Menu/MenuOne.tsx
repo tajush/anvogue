@@ -240,26 +240,34 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                                 </li> */}
                                                                 <li>
                                                                     <div
-                                                                        onClick={() => handleTypeClick('outerwear')}
-                                                                        className={`link text-secondary duration-300 cursor-pointer`}
-                                                                    >
-                                                                        Outerwear | Coats
-                                                                    </div>
-                                                                </li>
-                                                                <li>
-                                                                    <div
-                                                                        onClick={() => handleTypeClick('sweater')}
-                                                                        className={`link text-secondary duration-300 cursor-pointer`}
-                                                                    >
-                                                                        Sweaters | Cardigans
-                                                                    </div>
-                                                                </li>
-                                                                <li>
-                                                                    <div
                                                                         onClick={() => handleTypeClick('shirt')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
-                                                                        Shirt | Sweatshirts
+                                                                       Shirt
+                                                                    </div>
+                                                                </li>
+                                                                <li>
+                                                                    <div
+                                                                        onClick={() => handleTypeClick('t-shirt')}
+                                                                        className={`link text-secondary duration-300 cursor-pointer`}
+                                                                    >
+                                                                      T-shirt
+                                                                    </div>
+                                                                </li>
+                                                                <li>
+                                                                    <div
+                                                                        onClick={() => handleTypeClick('denim')}
+                                                                        className={`link text-secondary duration-300 cursor-pointer`}
+                                                                    >
+                                                                       Denim
+                                                                    </div>
+                                                                </li>
+                                                                <li>
+                                                                    <div
+                                                                        onClick={() => handleTypeClick('gabardine-pant')}
+                                                                        className={`link text-secondary duration-300 cursor-pointer`}
+                                                                    >
+                                                                     Gabardine Pant
                                                                     </div>
                                                                 </li>
                                                                 {/* <li>
@@ -277,13 +285,13 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                             <ul>
                                                                 <li>
                                                                     <div
-                                                                        onClick={() => handleTypeClick('shirt')}
+                                                                        onClick={() => handleTypeClick('working-wear')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
-                                                                        Shirt | Clothes
+                                                                       Construction Working Wear
                                                                     </div>
                                                                 </li>
-                                                                <li>
+                                                                {/* <li>
                                                                     <div
                                                                         onClick={() => handleTypeClick('top')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
@@ -306,7 +314,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                                     >
                                                                         Swimwear | Underwear
                                                                     </div>
-                                                                </li>
+                                                                </li> */}
                                                                 {/* <li>
                                                                     <div
                                                                         onClick={() => handleCategoryClick('fashion')}
@@ -322,15 +330,7 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                             <ul>
                                                                 <li>
                                                                     <div
-                                                                        onClick={() => handleTypeClick('face')}
-                                                                        className={`link text-secondary duration-300 cursor-pointer`}
-                                                                    >
-                                                                       Dresses
-                                                                    </div>
-                                                                </li>
-                                                                <li>
-                                                                    <div
-                                                                        onClick={() => handleTypeClick('eye')}
+                                                                        onClick={() => handleTypeClick('t-shirt')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
                                                                       T-Shirts
@@ -338,18 +338,26 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                                 </li>
                                                                 <li>
                                                                     <div
-                                                                        onClick={() => handleTypeClick('lip')}
+                                                                        onClick={() => handleTypeClick('underwear')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
-                                                                       Underware
+                                                                     Underwear
                                                                     </div>
                                                                 </li>
                                                                 <li>
                                                                     <div
-                                                                        onClick={() => handleTypeClick('hair')}
+                                                                        onClick={() => handleTypeClick('shorts')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
-                                                                      3pies
+                                                                      Shorts
+                                                                    </div>
+                                                                </li>
+                                                                <li>
+                                                                    <div
+                                                                        onClick={() => handleTypeClick('denim')}
+                                                                        className={`link text-secondary duration-300 cursor-pointer`}
+                                                                    >
+                                                                     denim
                                                                     </div>
                                                                 </li>
                                                                 {/* <li>
@@ -410,36 +418,60 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                         <div className="nav-item">
                                                             <div className="text-button-uppercase pb-2">For Women</div>
                                                             <ul>
-                                                                <li>
+                                                                {/* <li>
                                                                     <div
                                                                         onClick={() => handleGenderClick('women')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
                                                                         Starting From 60% Off
                                                                     </div>
-                                                                </li>
+                                                                </li> */}
                                                                 <li>
                                                                     <div
-                                                                        onClick={() => handleTypeClick('dress')}
+                                                                        onClick={() => handleTypeClick('denim-women')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
-                                                                        Dresses | Jumpsuits
+                                                                        Denim
                                                                     </div>
                                                                 </li>
                                                                 <li>
                                                                     <div
-                                                                        onClick={() => handleTypeClick('t-shirt')}
+                                                                        onClick={() => handleTypeClick('t-shirt-women')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
-                                                                        T-shirts | Sweatshirts
+                                                                        T-shirts 
                                                                     </div>
                                                                 </li>
                                                                 <li>
                                                                     <div
-                                                                        onClick={() => handleTypeClick('accessories')}
+                                                                        onClick={() => handleTypeClick('tops')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
-                                                                        Accessories | Jewelry
+                                                                        Tops
+                                                                    </div>
+                                                                </li>
+                                                                <li>
+                                                                    <div
+                                                                        onClick={() => handleTypeClick('skirts')}
+                                                                        className={`link text-secondary duration-300 cursor-pointer`}
+                                                                    >
+                                                                       Skirts
+                                                                    </div>
+                                                                </li>
+                                                                <li>
+                                                                    <div
+                                                                        onClick={() => handleTypeClick('undergarments')}
+                                                                        className={`link text-secondary duration-300 cursor-pointer`}
+                                                                    >
+                                                                        Undergarments
+                                                                    </div>
+                                                                </li>
+                                                                <li>
+                                                                    <div
+                                                                        onClick={() => handleTypeClick('linen')}
+                                                                        className={`link text-secondary duration-300 cursor-pointer`}
+                                                                    >
+                                                                        Linen
                                                                     </div>
                                                                 </li>
                                                                 {/* <li>
@@ -457,36 +489,37 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                             <ul>
                                                                 <li>
                                                                     <div
-                                                                        onClick={() => handleTypeClick('bed')}
+                                                                        onClick={() => handleTypeClick('tshirt-kids')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
-                                                                        Kids Bed
+                                                                       T-shirts
                                                                     </div>
                                                                 </li>
                                                                 <li>
                                                                     <div
-                                                                        onClick={() => handleTypeClick('toy')}
+                                                                        onClick={() => handleTypeClick('pant-kids')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
-                                                                        Boy{String.raw`'s`} Toy
+                                                                        {/* Boy{String.raw`'s`} Toy */}
+                                                                        Pants
                                                                     </div>
                                                                 </li>
                                                                 <li>
                                                                     <div
-                                                                        onClick={() => handleTypeClick('blanket')}
+                                                                        onClick={() => handleTypeClick('shorts-kid')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
-                                                                        Baby Blanket
+                                                                       Shorts Pant
                                                                     </div>
                                                                 </li>
-                                                                <li>
+                                                                {/* <li>
                                                                     <div
                                                                         onClick={() => handleTypeClick('clothing')}
                                                                         className={`link text-secondary duration-300 cursor-pointer`}
                                                                     >
                                                                         Newborn Clothing
                                                                     </div>
-                                                                </li>
+                                                                </li> */}
                                                                 {/* <li>
                                                                     <div
                                                                         onClick={() => handleCategoryClick('toys-kid')}
@@ -1324,14 +1357,14 @@ const MenuOne: React.FC<Props> = ({ props }) => {
                                                     <div className="nav-item">
                                                         <div className="text-button-uppercase pb-1">For Men</div>
                                                         <ul>
-                                                            <li>
+                                                            {/* <li>
                                                                 <div
                                                                     onClick={() => handleGenderClick('men')}
                                                                     className={`link text-secondary duration-300 cursor-pointer`}
                                                                 >
                                                                     Starting From 50% Off
                                                                 </div>
-                                                            </li>
+                                                            </li> */}
                                                             <li>
                                                                 <div
                                                                     onClick={() => handleTypeClick('outerwear')}

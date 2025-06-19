@@ -212,7 +212,7 @@
   {
     "id": "5",
     "category": "fashion",
-    "type": "dress",
+    "type": "shirt",
     "name": "mesh shirt",
     "gender": "women",
     "new": true,
@@ -234,30 +234,30 @@
       {
         "color": "black",
         "colorCode": "#1F1F1F",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Men_sCasualShirt_1_a1f6fbb2-1a7b-4689-87c0-b043674e5f31.webp"
+        "colorImage": "/images/product/color/SHIRT-ESSENTALLS-REGULAR-FIT-4.webp",
+        "image": "/images/product/SHIRT-ESSENTALLS-REGULAR-FIT-4.webp"
       },
       {
         "color": "yellow",
         "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Men_sCasualShirt_1_a1f6fbb2-1a7b-4689-87c0-b043674e5f31.webp"
+        "colorImage": "/images/product/color/SHIRT-ESSENTALLS-REGULAR-FIT-4.webp",
+        "image": "/images/product/SHIRT-ESSENTALLS-REGULAR-FIT-4.webp"
       },
       {
         "color": "purple",
         "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Men_sCasualShirt_1_a1f6fbb2-1a7b-4689-87c0-b043674e5f31.webp"
+        "colorImage": "/images/product/color/SHIRT-ESSENTALLS-REGULAR-FIT-4.webp",
+        "image": "/images/product/SHIRT-ESSENTALLS-REGULAR-FIT-4.webp"
       }
     ],
     "thumbImage": [
-      "/images/product/Men_sCasualShirt_1_a1f6fbb2-1a7b-4689-87c0-b043674e5f31.webp",
-      "/images/product/Men_sCasualShirt_1_a1f6fbb2-1a7b-4689-87c0-b043674e5f31.webp"
+      "/images/product/SHIRT-ESSENTALLS-REGULAR-FIT-4.webp",
+      "/images/product/SHIRT-ESSENTALLS-REGULAR-FIT-4.webp"
     ],
     "images": [
-      "/images/product/Men_sCasualShirt_1_a1f6fbb2-1a7b-4689-87c0-b043674e5f31.webp",
-      "/images/product/Men_sCasualShirt_1_a1f6fbb2-1a7b-4689-87c0-b043674e5f31.webp",
-      "/images/product/Men_sCasualShirt_1_a1f6fbb2-1a7b-4689-87c0-b043674e5f31.webp"
+      "/images/product/SHIRT-ESSENTALLS-REGULAR-FIT-4.webp",
+      "/images/product/SHIRT-ESSENTALLS-REGULAR-FIT-4.webp",
+      "/images/product/SHIRT-ESSENTALLS-REGULAR-FIT-4.webp"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -323,7 +323,7 @@
   {
     "id": "7",
     "category": "fashion",
-    "type": "shirt",
+    "type": "shirt1",
     "name": "Off-the-Shoulder Blouse",
     "gender": "women",
     "new": false,
@@ -381,7 +381,7 @@
   {
     "id": "8",
     "category": "fashion",
-    "type": "sets",
+    "type": "t-shirt",
     "name": "Kimono sleeve top",
     "gender": "women",
     "new": false,
@@ -403,37 +403,37 @@
       {
         "color": "green",
         "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/Aeros-2_NS.webp",
+        "image": "/images/product/Aeros-2_NS.webp"
       },
       {
         "color": "red",
         "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/Aeros-2_NS.webp",
+        "image": "/images/product/Aeros-2_NS.webp"
       },
       {
         "color": "yellow",
         "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/Aeros-2_NS.webp",
+        "image": "/images/product/Aeros-2_NS.webp"
       },
       {
         "color": "purple",
         "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/Aeros-2_NS.webp",
+        "image": "/images/product/Aeros-2_NS.webp"
       }
     ],
     "thumbImage": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/Aeros-2_NS.webp",
+      "/images/product/Aeros-2_NS.webp"
     ],
     "images": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/Aeros-2_NS.webp",
+      "/images/product/Aeros-2_NS.webp",
+      "/images/product/Aeros-2_NS.webp",
+      "/images/product/Aeros-2_NS.webp"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -442,7 +442,7 @@
   {
     "id": "9",
     "category": "fashion",
-    "type": "t-shirt",
+    "type": "denim",
     "name": "mesh shirt",
     "gender": "women",
     "new": true,
@@ -464,31 +464,31 @@
       {
         "color": "green",
         "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/jeans-001.webp",
+        "image": "/images/product/jeans-001.webp"
       },
       {
         "color": "red",
         "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/jeans-001.webp",
+        "image": "/images/product/jeans-001.webp"
       },
       {
         "color": "white",
         "colorCode": "#F6EFDD",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/jeans-001.webp",
+        "image": "/images/product/jeans-001.webp"
       }
     ],
     "thumbImage": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/jeans-001.webp",
+      "/images/product/jeans-001.webp"
     ],
     "images": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/jeans-001.webp",
+      "/images/product/jeans-001.webp",
+      "/images/product/jeans-001.webp",
+      "/images/product/jeans-001.webp"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -497,7 +497,7 @@
   {
     "id": "10",
     "category": "fashion",
-    "type": "t-shirt",
+    "type": "gabardine-pant",
     "name": "Raglan Sleeve T-shirt",
     "gender": "women",
     "new": true,
@@ -521,37 +521,37 @@
       {
         "color": "green",
         "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/DSC07285-copy-scaled.webp",
+        "image": "/images/product/DSC07285-copy-scaled.webp"
       },
       {
         "color": "red",
         "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/DSC07285-copy-scaled.webp",
+        "image": "/images/product/DSC07285-copy-scaled.webp"
       },
       {
         "color": "yellow",
         "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/DSC07285-copy-scaled.webp",
+        "image": "/images/product/DSC07285-copy-scaled.webp"
       },
       {
         "color": "purple",
         "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/DSC07285-copy-scaled.webp",
+        "image": "/images/product/DSC07285-copy-scaled.webp"
       }
     ],
     "thumbImage": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/DSC07285-copy-scaled.webp",
+      "/images/product/DSC07285-copy-scaled.webp"
     ],
     "images": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/DSC07285-copy-scaled.webp",
+      "/images/product/DSC07285-copy-scaled.webp",
+      "/images/product/DSC07285-copy-scaled.webp",
+      "/images/product/DSC07285-copy-scaled.webp"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -560,7 +560,7 @@
   {
     "id": "11",
     "category": "fashion",
-    "type": "t-shirt",
+    "type": "working-wear",
     "name": "Off-the-Shoulder Blouse",
     "gender": "women",
     "new": false,
@@ -579,31 +579,31 @@
       {
         "color": "green",
         "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/front-view-smiley-female-construction-worker.jpg",
+        "image": "/images/product/front-view-smiley-female-construction-worker.jpg"
       },
       {
         "color": "white",
         "colorCode": "#F6EFDD",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/front-view-smiley-female-construction-worker.jpg",
+        "image": "/images/product/front-view-smiley-female-construction-worker.jpg"
       },
       {
         "color": "purple",
         "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/front-view-smiley-female-construction-worker.jpg",
+        "image": "/images/product/front-view-smiley-female-construction-worker.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/front-view-smiley-female-construction-worker.jpg",
+      "/images/product/front-view-smiley-female-construction-worker.jpg"
     ],
     "images": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/front-view-smiley-female-construction-worker.jpg",
+      "/images/product/front-view-smiley-female-construction-worker.jpg",
+      "/images/product/front-view-smiley-female-construction-worker.jpg",
+      "/images/product/front-view-smiley-female-construction-worker.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -612,7 +612,7 @@
   {
     "id": "12",
     "category": "fashion",
-    "type": "sets",
+    "type": "underwear",
     "name": "Kimono sleeve top",
     "gender": "women",
     "new": false,
@@ -634,37 +634,37 @@
       {
         "color": "green",
         "colorCode": "#D2EF9A",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/1_a619928c-5c22-45b8-84c2-184c64d0811e.webp",
+        "image": "/images/product/1_a619928c-5c22-45b8-84c2-184c64d0811e.webp"
       },
       {
         "color": "red",
         "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/1_a619928c-5c22-45b8-84c2-184c64d0811e.webp",
+        "image": "/images/product/1_a619928c-5c22-45b8-84c2-184c64d0811e.webp"
       },
       {
         "color": "yellow",
         "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/1_a619928c-5c22-45b8-84c2-184c64d0811e.webp",
+        "image": "/images/product/1_a619928c-5c22-45b8-84c2-184c64d0811e.webp"
       },
       {
         "color": "purple",
         "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/1_a619928c-5c22-45b8-84c2-184c64d0811e.webp",
+        "image": "/images/product/1_a619928c-5c22-45b8-84c2-184c64d0811e.webp"
       }
     ],
     "thumbImage": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/1_a619928c-5c22-45b8-84c2-184c64d0811e.webp",
+      "/images/product/1_a619928c-5c22-45b8-84c2-184c64d0811e.webp"
     ],
     "images": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/1_a619928c-5c22-45b8-84c2-184c64d0811e.webp",
+      "/images/product/1_a619928c-5c22-45b8-84c2-184c64d0811e.webp",
+      "/images/product/1_a619928c-5c22-45b8-84c2-184c64d0811e.webp",
+      "/images/product/1_a619928c-5c22-45b8-84c2-184c64d0811e.webp"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -673,7 +673,7 @@
   {
     "id": "13",
     "category": "fashion",
-    "type": "t-shirt",
+    "type": "t-shirt1",
     "name": "mesh shirt",
     "gender": "women",
     "new": true,
@@ -915,7 +915,7 @@
   {
     "id": "22",
     "category": "fashion",
-    "type": "t-shirt",
+    "type": "t-shirt1",
     "name": "T-shirt Pockets",
     "gender": "men",
     "new": false,
@@ -976,7 +976,7 @@
   {
     "id": "23",
     "category": "fashion",
-    "type": "t-shirt",
+    "type": "t-shirt1",
     "name": "T-shirt Pockets",
     "gender": "men",
     "new": false,
@@ -1038,7 +1038,7 @@
   {
     "id": "17",
     "category": "fashion",
-    "type": "t-shirt",
+    "type": "t-shirt1",
     "name": "mesh shirt",
     "gender": "women",
     "new": true,
@@ -1099,7 +1099,7 @@
   {
     "id": "18",
     "category": "fashion",
-    "type": "shirt",
+    "type": "shirt1",
     "name": "Raglan Sleeve T-shirt",
     "gender": "women",
     "new": true,
@@ -1281,7 +1281,7 @@
   {
     "id": "21",
     "category": "fashion",
-    "type": "t-shirt",
+    "type": "t-shirt1",
     "name": "T-shirt Pockets",
     "gender": "men",
     "new": false,
@@ -1343,7 +1343,7 @@
   {
     "id": "24",
     "category": "fashion",
-    "type": "t-shirt",
+    "type": "t-shirt1",
     "name": "T-shirt Pockets",
     "gender": "men",
     "new": false,
@@ -1405,7 +1405,7 @@
   {
     "id": "241",
     "category": "fashion",
-    "type": "t-shirt",
+    "type": "t-shirt1",
     "name": "T-shirt Pockets",
     "gender": "men",
     "new": false,
@@ -1453,7 +1453,7 @@
   {
     "id": "25",
     "category": "fashion",
-    "type": "shirt",
+    "type": "shirt1",
     "name": "Shirt Pockets",
     "gender": "men",
     "new": false,
@@ -1515,7 +1515,7 @@
   {
     "id": "26",
     "category": "fashion",
-    "type": "shirt",
+    "type": "shirt1",
     "name": "T-shirt Pockets",
     "gender": "men",
     "new": false,
@@ -1577,7 +1577,7 @@
   {
     "id": "27",
     "category": "fashion",
-    "type": "shirt",
+    "type": "shirt1",
     "name": "T-shirt Pockets",
     "gender": "men",
     "new": false,
@@ -1639,7 +1639,7 @@
   {
     "id": "28",
     "category": "fashion",
-    "type": "underwear",
+    "type": "underwear1",
     "name": "Kimono sleeve top",
     "gender": "women",
     "new": false,
@@ -1824,7 +1824,7 @@
   {
     "id": "31",
     "category": "fashion",
-    "type": "underwear",
+    "type": "underwear1",
     "name": "Off-the-Shoulder Blouse",
     "gender": "women",
     "new": false,
@@ -1943,7 +1943,7 @@
   {
     "id": "33",
     "category": "fashion",
-    "type": "underwear",
+    "type": "underwear1",
     "name": "T-shirt Pockets",
     "gender": "women",
     "new": true,
@@ -2005,7 +2005,7 @@
   {
     "id": "34",
     "category": "fashion",
-    "type": "underwear",
+    "type": "underwear1",
     "name": "T-shirt Pockets",
     "gender": "women",
     "new": true,
@@ -2060,7 +2060,7 @@
   {
     "id": "35",
     "category": "fashion",
-    "type": "swimwear",
+    "type": "shorts",
     "name": "T-shirt Pockets",
     "gender": "women",
     "new": true,
@@ -2083,31 +2083,31 @@
       {
         "color": "yellow",
         "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/rn_meh_ss23_srt539_ripped_denim_shorts_2_202306180606288431_thumb.jpg",
+        "image": "/images/product/rn_meh_ss23_srt539_ripped_denim_shorts_2_202306180606288431_thumb.jpg"
       },
       {
         "color": "red",
         "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/rn_meh_ss23_srt539_ripped_denim_shorts_2_202306180606288431_thumb.jpg",
+        "image": "/images/product/rn_meh_ss23_srt539_ripped_denim_shorts_2_202306180606288431_thumb.jpg"
       },
       {
         "color": "black",
         "colorCode": "#555",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/rn_meh_ss23_srt539_ripped_denim_shorts_2_202306180606288431_thumb.jpg",
+        "image": "/images/product/rn_meh_ss23_srt539_ripped_denim_shorts_2_202306180606288431_thumb.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/rn_meh_ss23_srt539_ripped_denim_shorts_2_202306180606288431_thumb.jpg",
+      "/images/product/rn_meh_ss23_srt539_ripped_denim_shorts_2_202306180606288431_thumb.jpg"
     ],
     "images": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/rn_meh_ss23_srt539_ripped_denim_shorts_2_202306180606288431_thumb.jpg",
+      "/images/product/rn_meh_ss23_srt539_ripped_denim_shorts_2_202306180606288431_thumb.jpg",
+      "/images/product/rn_meh_ss23_srt539_ripped_denim_shorts_2_202306180606288431_thumb.jpg",
+      "/images/product/rn_meh_ss23_srt539_ripped_denim_shorts_2_202306180606288431_thumb.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -2116,7 +2116,7 @@
   {
     "id": "36",
     "category": "fashion",
-    "type": "swimwear",
+    "type": "denim-women",
     "name": "T-shirt Pockets",
     "gender": "women",
     "new": false,
@@ -2139,25 +2139,25 @@
       {
         "color": "yellow",
         "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/European-Culture-Milano-24PER-0860-4052-0557-Woman_s-Pants-Indaco-01-Fit.webp",
+        "image": "/images/product/European-Culture-Milano-24PER-0860-4052-0557-Woman_s-Pants-Indaco-01-Fit.webp"
       },
       {
         "color": "purple",
         "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/European-Culture-Milano-24PER-0860-4052-0557-Woman_s-Pants-Indaco-01-Fit.webp",
+        "image": "/images/product/European-Culture-Milano-24PER-0860-4052-0557-Woman_s-Pants-Indaco-01-Fit.webp"
       }
     ],
     "thumbImage": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/European-Culture-Milano-24PER-0860-4052-0557-Woman_s-Pants-Indaco-01-Fit.webp",
+      "/images/product/European-Culture-Milano-24PER-0860-4052-0557-Woman_s-Pants-Indaco-01-Fit.webp"
     ],
     "images": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/European-Culture-Milano-24PER-0860-4052-0557-Woman_s-Pants-Indaco-01-Fit.webp",
+      "/images/product/European-Culture-Milano-24PER-0860-4052-0557-Woman_s-Pants-Indaco-01-Fit.webp",
+      "/images/product/European-Culture-Milano-24PER-0860-4052-0557-Woman_s-Pants-Indaco-01-Fit.webp",
+      "/images/product/European-Culture-Milano-24PER-0860-4052-0557-Woman_s-Pants-Indaco-01-Fit.webp"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -2166,7 +2166,7 @@
   {
     "id": "37",
     "category": "fashion",
-    "type": "swimwear",
+    "type": "t-shirt-women",
     "name": "Shirt Pockets",
     "gender": "women",
     "new": true,
@@ -2189,31 +2189,31 @@
       {
         "color": "white",
         "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/European-Culture-Milano-23PEE-36VU-2777-1101-01a-t-shirt-bianco-ottico.webp",
+        "image": "/images/product/European-Culture-Milano-23PEE-36VU-2777-1101-01a-t-shirt-bianco-ottico.webp"
       },
       {
         "color": "red",
         "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/European-Culture-Milano-23PEE-36VU-2777-1101-01a-t-shirt-bianco-ottico.webp",
+        "image": "/images/product/European-Culture-Milano-23PEE-36VU-2777-1101-01a-t-shirt-bianco-ottico.webp"
       },
       {
         "color": "black",
         "colorCode": "#1F1F1F",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/European-Culture-Milano-23PEE-36VU-2777-1101-01a-t-shirt-bianco-ottico.webp",
+        "image": "/images/product/European-Culture-Milano-23PEE-36VU-2777-1101-01a-t-shirt-bianco-ottico.webp"
       }
     ],
     "thumbImage": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/European-Culture-Milano-23PEE-36VU-2777-1101-01a-t-shirt-bianco-ottico.webp",
+      "/images/product/European-Culture-Milano-23PEE-36VU-2777-1101-01a-t-shirt-bianco-ottico.webp"
     ],
     "images": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/European-Culture-Milano-23PEE-36VU-2777-1101-01a-t-shirt-bianco-ottico.webp",
+      "/images/product/European-Culture-Milano-23PEE-36VU-2777-1101-01a-t-shirt-bianco-ottico.webp",
+      "/images/product/European-Culture-Milano-23PEE-36VU-2777-1101-01a-t-shirt-bianco-ottico.webp",
+      "/images/product/European-Culture-Milano-23PEE-36VU-2777-1101-01a-t-shirt-bianco-ottico.webp"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -2222,7 +2222,7 @@
   {
     "id": "38",
     "category": "fashion",
-    "type": "swimwear",
+    "type": "tops",
     "name": "T-shirt Pockets",
     "gender": "women",
     "new": false,
@@ -2245,25 +2245,25 @@
       {
         "color": "red",
         "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/YL-TOPS-GT-152.jpg",
+        "image": "/images/product/YL-TOPS-GT-152.jpg"
       },
       {
         "color": "black",
         "colorCode": "#555",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/YL-TOPS-GT-152.jpg",
+        "image": "/images/product/YL-TOPS-GT-152.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/YL-TOPS-GT-152.jpg",
+      "/images/product/YL-TOPS-GT-152.jpg"
     ],
     "images": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/YL-TOPS-GT-152.jpg",
+      "/images/product/YL-TOPS-GT-152.jpg",
+      "/images/product/YL-TOPS-GT-152.jpg",
+      "/images/product/YL-TOPS-GT-152.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -2272,7 +2272,7 @@
   {
     "id": "39",
     "category": "fashion",
-    "type": "swimwear",
+    "type": "undergarments",
     "name": "T-shirt Pockets",
     "gender": "women",
     "new": false,
@@ -2295,31 +2295,31 @@
       {
         "color": "yellow",
         "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/KidsUnderwear.webp",
+        "image": "/images/product/KidsUnderwear.webp"
       },
       {
         "color": "red",
         "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/KidsUnderwear.webp",
+        "image": "/images/product/KidsUnderwear.webp"
       },
       {
         "color": "black",
         "colorCode": "#555",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/KidsUnderwear.webp",
+        "image": "/images/product/KidsUnderwear.webpp"
       }
     ],
     "thumbImage": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/KidsUnderwear.webp",
+      "/images/product/KidsUnderwear.webp"
     ],
     "images": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/KidsUnderwear.webp",
+      "/images/product/KidsUnderwear.webp",
+      "/images/product/KidsUnderwear.webp",
+      "/images/product/KidsUnderwear.webp"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -2328,7 +2328,7 @@
   {
     "id": "391",
     "category": "fashion",
-    "type": "accessories",
+    "type": "linen",
     "name": "gucci sunglasses",
     "gender": "women",
     "new": false,
@@ -2345,16 +2345,16 @@
       {
         "color": "yellow",
         "colorCode": "#ECB018",
-        "colorImage": "/images/product/Womenskaftan_1.webp",
-        "image": "/images/product/1000x1000"
+        "colorImage": "/images/product/BORACAY-dress-in-teal-blue-1_720x.webp",
+        "image": "/images/product/BORACAY-dress-in-teal-blue-1_720x.webp"
       }
     ],
     "thumbImage": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/BORACAY-dress-in-teal-blue-1_720x.webp",
+      "/images/product/BORACAY-dress-in-teal-blue-1_720x.webp"
     ],
     "images": [
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/BORACAY-dress-in-teal-blue-1_720x.webp"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -2363,7 +2363,7 @@
   {
     "id": "392",
     "category": "fashion",
-    "type": "accessories",
+    "type": "tshirt-kids",
     "name": "women handbag",
     "gender": "women",
     "new": true,
@@ -2380,16 +2380,16 @@
       {
         "color": "yellow",
         "colorCode": "#ECB018",
-        "colorImage": "/images/product/Womenskaftan_1.webp",
-        "image": "/images/product/1000x1000"
+        "colorImage": "/images/product/Rang-Bangladesh-SST-RRJ-TST-00048-3-1.webp",
+        "image": "/images/product/Rang-Bangladesh-SST-RRJ-TST-00048-3-1.webp"
       }
     ],
     "thumbImage": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/Rang-Bangladesh-SST-RRJ-TST-00048-3-1.webp",
+      "/images/product/Rang-Bangladesh-SST-RRJ-TST-00048-3-1.webp"
     ],
     "images": [
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/Rang-Bangladesh-SST-RRJ-TST-00048-3-1.webp"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -2398,7 +2398,7 @@
   {
     "id": "393",
     "category": "fashion",
-    "type": "accessories",
+    "type": "pant-kids",
     "name": "camouflage hat",
     "gender": "women",
     "new": true,
@@ -2415,16 +2415,16 @@
       {
         "color": "yellow",
         "colorCode": "#ECB018",
-        "colorImage": "/images/product/Womenskaftan_1.webp",
-        "image": "/images/product/1000x1000"
+        "colorImage": "/images/product/RP-JOG-TB23-11W-0050_8.webp",
+        "image": "/images/product/RP-JOG-TB23-11W-0050_8.webp"
       }
     ],
     "thumbImage": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/RP-JOG-TB23-11W-0050_8.webp",
+      "/images/product/RP-JOG-TB23-11W-0050_8.webp"
     ],
     "images": [
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/RP-JOG-TB23-11W-0050_8.webp"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -2433,7 +2433,7 @@
   {
     "id": "394",
     "category": "fashion",
-    "type": "accessories",
+    "type": "shorts-kid",
     "name": "leather belts",
     "gender": "women",
     "new": false,
@@ -2450,16 +2450,16 @@
       {
         "color": "yellow",
         "colorCode": "#ECB018",
-        "colorImage": "/images/product/Womenskaftan_1.webp",
-        "image": "/images/product/1000x1000"
+        "colorImage": "/images/product/DSC07013_869d09d0-e8e6-4280-9dce-880145dfc2e3.webp",
+        "image": "/images/product/DSC07013_869d09d0-e8e6-4280-9dce-880145dfc2e3.webp"
       }
     ],
     "thumbImage": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/DSC07013_869d09d0-e8e6-4280-9dce-880145dfc2e3.webp",
+      "/images/product/DSC07013_869d09d0-e8e6-4280-9dce-880145dfc2e3.webp"
     ],
     "images": [
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/DSC07013_869d09d0-e8e6-4280-9dce-880145dfc2e3.webp"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
