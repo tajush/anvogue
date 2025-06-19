@@ -82,9 +82,9 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
         openModalCompare();
     };
 
-    const handleQuickviewOpen = () => {
-        openQuickview(data)
-    }
+    // const handleQuickviewOpen = () => {
+    //     openQuickview(data)
+    // }
 
     const handleDetailProduct = (productId: string) => {
         // redirect to shop with category selected
