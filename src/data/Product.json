@@ -1,8 +1,9 @@
 [
+  
   {
     "id": "1",
     "category": "fashion",
-    "type": "top",
+    "type": "jacket",
     "name": "mesh shirt",
     "gender": "women",
     "new": true,
@@ -24,25 +25,27 @@
       {
         "color": "red",
         "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Men_sCasualPanjabi_1_9a9417e2-cf9e-4b79-9ed9-978c0e053912.webp"
+        "colorImage": "/images/product/color/Una-tea-8_Large_50cc4e78-d560-43c0-88f3-c23745b37b2f.webp",
+        "image": "/images/product/Una-tea-8_Large_50cc4e78-d560-43c0-88f3-c23745b37b2f.webp"
       },
       {
         "color": "yellow",
         "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/Una-tea-8_Large_50cc4e78-d560-43c0-88f3-c23745b37b2f.webp",
+        "image": "/images/product/Una-tea-8_Large_50cc4e78-d560-43c0-88f3-c23745b37b2f.webp"
       }
+
+
     ],
     "thumbImage": [
-      "/images/product/Men_sCasualPanjabi_1_9a9417e2-cf9e-4b79-9ed9-978c0e053912.webp",
-      "/images/product/Men_sCasualKurta_1.webp"
+      "/images/product/Una-tea-8_Large_50cc4e78-d560-43c0-88f3-c23745b37b2f.webp",
+      "/images/product/Una-tea-8_Large_50cc4e78-d560-43c0-88f3-c23745b37b2f.webp"
     ],
     "images": [
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp",
-      "/images/product/Womenskaftan_1.webp"
+      "/images/product/Una-tea-8_Large_50cc4e78-d560-43c0-88f3-c23745b37b2f.webp",
+      "/images/product/Una-tea-8_Large_50cc4e78-d560-43c0-88f3-c23745b37b2f.webp",
+      "/images/product/Una-tea-8_Large_50cc4e78-d560-43c0-88f3-c23745b37b2f.webp",
+      "/images/product/Una-tea-8_Large_50cc4e78-d560-43c0-88f3-c23745b37b2f.webp"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -51,7 +54,7 @@
   {
     "id": "2",
     "category": "fashion",
-    "type": "t-shirt",
+    "type": "sweater",
     "name": "Raglan Sleeve T-shirt",
     "gender": "women",
     "new": true,
@@ -75,25 +78,25 @@
       {
         "color": "white",
         "colorCode": "#F6EFDD",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/liquid-yacht-wear-ladies-vneck-sweater-charcoal-1.jpg",
+        "image": "/images/product/liquid-yacht-wear-ladies-vneck-sweater-charcoal-1.jpg"
       },
       {
         "color": "purple",
         "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Womenskaftan_1.webp"
+        "colorImage": "/images/product/color/liquid-yacht-wear-ladies-vneck-sweater-charcoal-1.jpg",
+        "image": "/images/product/liquid-yacht-wear-ladies-vneck-sweater-charcoal-1.jpg"
       }
     ],
     "thumbImage": [
-      "/images/product/Men_sEthnicPanjabi_1_8b58436f-b29d-485a-9d2e-3fce16a2c07b.webp",
-      "/images/product/Men_sEthnicPanjabi_1_8b58436f-b29d-485a-9d2e-3fce16a2c07b.webp"
+      "/images/product/liquid-yacht-wear-ladies-vneck-sweater-charcoal-1.jpg",
+      "/images/product/liquid-yacht-wear-ladies-vneck-sweater-charcoal-1.jpg"
     ],
     "images": [
-      "/images/product/Men_sEthnicPanjabi_1_8b58436f-b29d-485a-9d2e-3fce16a2c07b.webp",
-      "/images/product/Men_sEthnicPanjabi_1_8b58436f-b29d-485a-9d2e-3fce16a2c07b.webp",
-      "/images/product/Men_sEthnicPanjabi_1_8b58436f-b29d-485a-9d2e-3fce16a2c07b.webp",
-      "/images/product/Men_sEthnicPanjabi_1_8b58436f-b29d-485a-9d2e-3fce16a2c07b.webp"
+      "/images/product/liquid-yacht-wear-ladies-vneck-sweater-charcoal-1.jpg",
+      "/images/product/liquid-yacht-wear-ladies-vneck-sweater-charcoal-1.jpg",
+      "/images/product/liquid-yacht-wear-ladies-vneck-sweater-charcoal-1.jpg",
+      "/images/product/liquid-yacht-wear-ladies-vneck-sweater-charcoal-1.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -102,7 +105,7 @@
   {
     "id": "3",
     "category": "fashion",
-    "type": "dress",
+    "type": "hoodie",
     "name": "Off-the-Shoulder Blouse",
     "gender": "women",
     "new": false,
@@ -121,32 +124,32 @@
       {
         "color": "pink",
         "colorCode": "#F4407D",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Men_sCasualKurta_1.webp"
+        "colorImage": "/images/product/color/Nobis-Hedge-3L-Wool-Black-OM-Front.webp",
+        "image": "/images/product/Nobis-Hedge-3L-Wool-Black-OM-Front.webp"
       },
       {
         "color": "yellow",
         "colorCode": "#ECB018",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Men_sCasualKurta_1.webp"
+        "colorImage": "/images/product/color/Nobis-Hedge-3L-Wool-Black-OM-Front.webp",
+        "image": "/images/product/Nobis-Hedge-3L-Wool-Black-OM-Front.webp"
       },
       {
         "color": "purple",
         "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Men_sCasualKurta_1.webp"
+        "colorImage": "/images/product/color/Nobis-Hedge-3L-Wool-Black-OM-Front.webp",
+        "image": "/images/product/Nobis-Hedge-3L-Wool-Black-OM-Front.webp"
       }
       
     ],
     "thumbImage": [
-      "/images/product/Men_sCasualKurta_1.webp",
-      "/images/product/Men_sCasualKurta_1.webp"
+      "/images/product/Nobis-Hedge-3L-Wool-Black-OM-Front.webp",
+      "/images/product/Nobis-Hedge-3L-Wool-Black-OM-Front.webp"
     ],
     "images": [
-      "/images/product/Men_sCasualKurta_1.webp",
-      "/images/product/Men_sCasualKurta_1.webp",
-      "/images/product/Men_sCasualKurta_1.webp",
-      "/images/product/Men_sCasualKurta_1.webp"
+      "/images/product/Nobis-Hedge-3L-Wool-Black-OM-Front.webp",
+      "/images/product/Nobis-Hedge-3L-Wool-Black-OM-Front.webp",
+      "/images/product/Nobis-Hedge-3L-Wool-Black-OM-Front.webp",
+      "/images/product/Nobis-Hedge-3L-Wool-Black-OM-Front.webp"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -155,7 +158,7 @@
   {
     "id": "4",
     "category": "fashion",
-    "type": "t-shirt",
+    "type": "trousers",
     "name": "Kimono sleeve top",
     "gender": "women",
     "new": false,
@@ -176,31 +179,31 @@
       {
         "color": "red",
         "colorCode": "#DB4444",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Ash_Kaftan-05-2.webp"
+        "colorImage": "/images/product/color/RP-JOG-TB23-11W-0050_8.webp",
+        "image": "/images/product/RP-JOG-TB23-11W-0050_8.webp"
       },
       {
         "color": "white",
         "colorCode": "#F6EFDD",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Ash_Kaftan-05-2.webp"
+        "colorImage": "/images/product/color/RP-JOG-TB23-11W-0050_8.webp",
+        "image": "/images/product/RP-JOG-TB23-11W-0050_8.webp"
       },
       {
         "color": "purple",
         "colorCode": "#8684D4",
-        "colorImage": "/images/product/color/48x48.png",
-        "image": "/images/product/Ash_Kaftan-05-2.webp"
+        "colorImage": "/images/product/color/RP-JOG-TB23-11W-0050_8.webp",
+        "image": "/images/product/RP-JOG-TB23-11W-0050_8.webp"
       }
     ],
     "thumbImage": [
-      "/images/product/Ash_Kaftan-05-2.webp",
-      "/images/product/Ash_Kaftan-05-2.webp"
+      "/images/product/RP-JOG-TB23-11W-0050_8.webp",
+      "/images/product/RP-JOG-TB23-11W-0050_8.webp"
     ],
     "images": [
-      "/images/product/Ash_Kaftan-05-2.webp",
-      "/images/product/Ash_Kaftan-05-2.webp",
-      "/images/product/Ash_Kaftan-05-2.webp",
-      "/images/product/Ash_Kaftan-05-2.webp"
+      "/images/product/RP-JOG-TB23-11W-0050_8.webp",
+      "/images/product/RP-JOG-TB23-11W-0050_8.webp",
+      "/images/product/RP-JOG-TB23-11W-0050_8.webp",
+      "/images/product/RP-JOG-TB23-11W-0050_8.webp"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -6887,7 +6890,7 @@
   {
     "id": "139",
     "category": "fashion",
-    "type": "sweater",
+    "type": "sweater1",
     "name": "silver sweater",
     "gender": "men",
     "new": false,
@@ -6934,7 +6937,7 @@
   {
     "id": "140",
     "category": "fashion",
-    "type": "sweater",
+    "type": "sweater1",
     "name": "silver sweater",
     "gender": "men",
     "new": true,

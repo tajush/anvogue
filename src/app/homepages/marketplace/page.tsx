@@ -20,7 +20,7 @@ import NewsInsight from '@/components/Home3/NewsInsight'
 export default function HomeMarketplace() {
     return (
         <>
-            <TopNavOne props="style-marketplace bg-[#263587] border-b border-surface1" slogan='New customers save 10% with the code GET10' />
+            {/* <TopNavOne props="style-marketplace bg-[#263587] border-b border-surface1" slogan='New customers save 10% with the code GET10' /> */}
             <div id="header" className='relative w-full'>
                 <MenuMarketplace />
                 <SliderMarketplace />

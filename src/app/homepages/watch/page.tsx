@@ -19,7 +19,7 @@ export default function HomeWatch() {
     return (
         <>
             <div className="bg-black style-watch">
-                <TopNavOne props="style-one bg-black" slogan='New customers save 10% with the code GET10' />
+                {/* <TopNavOne props="style-one bg-black" slogan='New customers save 10% with the code GET10' /> */}
                 <div id="header" className='relative w-full'>
                     <MenuWatch props="bg-green" />
                     <SliderWatch />
