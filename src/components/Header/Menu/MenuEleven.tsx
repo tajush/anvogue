@@ -186,13 +186,13 @@ const MenuEleven = () => {
                                 <div className="menu-main style-eight h-full pl-12 max-lg:hidden">
                                     <ul className='flex items-center gap-8 h-full'>
                                         <li className='h-full relative'>
-                                            <Link
+                                            {/* <Link
                                                 href="#!"
                                                 className={`text-button-uppercase duration-300 h-full flex items-center justify-center gap-1 
                                                 ${pathname.includes('/homepages/') ? 'active' : ''}`}
                                             >
                                                 Demo
-                                            </Link>
+                                            </Link> */}
                                             <div className="sub-menu absolute py-3 px-5 -left-10 w-max grid grid-cols-4 gap-5 bg-white rounded-b-xl">
                                                 <ul>
                                                     <li>
@@ -1203,11 +1203,11 @@ const MenuEleven = () => {
                                         className={`${openSubNavMobile === 1 ? 'open' : ''}`}
                                         onClick={() => handleOpenSubNavMobile(1)}
                                     >
-                                        <a href={'#!'} className={`text-xl font-semibold flex items-center justify-between`}>Demo
+                                        {/* <a href={'#!'} className={`text-xl font-semibold flex items-center justify-between`}>Demo
                                             <span className='text-right'>
                                                 <Icon.CaretRight size={20} />
                                             </span>
-                                        </a>
+                                        </a> */}
                                         <div className="sub-nav-mobile">
                                             <div
                                                 className="back-btn flex items-center gap-3"

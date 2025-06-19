@@ -967,11 +967,11 @@ const MenuYoga = () => {
                                         className={`${openSubNavMobile === 1 ? 'open' : ''}`}
                                         onClick={() => handleOpenSubNavMobile(1)}
                                     >
-                                        <a href={'#!'} className={`text-xl font-semibold flex items-center justify-between`}>Demo
+                                        {/* <a href={'#!'} className={`text-xl font-semibold flex items-center justify-between`}>Demo
                                             <span className='text-right'>
                                                 <Icon.CaretRight size={20} />
                                             </span>
-                                        </a>
+                                        </a> */}
                                         <div className="sub-nav-mobile">
                                             <div
                                                 className="back-btn flex items-center gap-3"
