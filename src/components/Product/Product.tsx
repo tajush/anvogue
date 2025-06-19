@@ -227,10 +227,10 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                     {style === 'style-1' && (
                                         <div
                                             className="quick-view-btn w-full text-button-uppercase py-2 text-center rounded-full duration-300 bg-white hover:bg-black hover:text-white"
-                                            onClick={(e) => {
-                                                e.stopPropagation()
-                                                handleQuickviewOpen()
-                                            }}
+                                            // onClick={(e) => {
+                                            //     e.stopPropagation()
+                                            //     handleQuickviewOpen()
+                                            // }}
                                         >
                                             Quick View
                                         </div>
@@ -334,10 +334,10 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                         </div>
                                         <div
                                             className={`quick-view-btn w-9 h-9 flex items-center justify-center rounded-full bg-white duration-300 relative ${compareState.compareArray.some(item => item.id === data.id) ? 'active' : ''}`}
-                                            onClick={(e) => {
-                                                e.stopPropagation()
-                                                handleQuickviewOpen()
-                                            }}
+                                            // onClick={(e) => {
+                                            //     e.stopPropagation()
+                                            //     handleQuickviewOpen()
+                                            // }}
                                         >
                                             <div className="tag-action bg-black text-white caption2 px-1.5 py-0.5 rounded-sm">Quick View</div>
                                             <Icon.Eye size={20} />
@@ -378,10 +378,10 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                             <div className="list-action-icon flex items-center justify-center gap-2 absolute w-full bottom-3 z-[1] lg:hidden">
                                 <div
                                     className="quick-view-btn w-9 h-9 flex items-center justify-center rounded-lg duration-300 bg-white hover:bg-black hover:text-white"
-                                    onClick={(e) => {
-                                        e.stopPropagation()
-                                        handleQuickviewOpen()
-                                    }}
+                                    // onClick={(e) => {
+                                    //     e.stopPropagation()
+                                    //     handleQuickviewOpen()
+                                    // }}
                                 >
                                     <Icon.Eye className='text-lg' />
                                 </div>
@@ -659,10 +659,10 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                                 </div>
                                                 <div
                                                     className="quick-view-btn-list w-[32px] h-[32px] flex items-center justify-center rounded-full bg-white duration-300 relative"
-                                                    onClick={(e) => {
-                                                        e.stopPropagation()
-                                                        handleQuickviewOpen()
-                                                    }}
+                                                    // onClick={(e) => {
+                                                    //     e.stopPropagation()
+                                                    //     handleQuickviewOpen()
+                                                    // }}
                                                 >
                                                     <div className="tag-action bg-black text-white caption2 px-1.5 py-0.5 rounded-sm">Quick View</div>
                                                     <Icon.Eye size={18} />
@@ -715,10 +715,10 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                             </span>
                             <span
                                 className="quick-view-btn w-8 h-8 bg-white flex items-center justify-center rounded-full box-shadow-sm duration-300"
-                                onClick={(e) => {
-                                    e.stopPropagation()
-                                    handleQuickviewOpen()
-                                }}
+                                // onClick={(e) => {
+                                //     e.stopPropagation()
+                                //     handleQuickviewOpen()
+                                // }}
                             >
                                 <Icon.Eye />
                             </span>
