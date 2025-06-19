@@ -156,10 +156,10 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                     {style === 'style-3' || style === 'style-4' ? (
                                         <div
                                             className={`quick-view-btn w-[32px] h-[32px] flex items-center justify-center rounded-full bg-white duration-300 relative mt-2 ${compareState.compareArray.some(item => item.id === data.id) ? 'active' : ''}`}
-                                            onClick={(e) => {
-                                                e.stopPropagation()
-                                                handleQuickviewOpen()
-                                            }}
+                                            // onClick={(e) => {
+                                            //     e.stopPropagation()
+                                            //     handleQuickviewOpen()
+                                            // }}
                                         >
                                             <div className="tag-action bg-black text-white caption2 px-1.5 py-0.5 rounded-sm">Quick View</div>
                                             <Icon.Eye size={20} />
