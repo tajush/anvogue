@@ -171,14 +171,45 @@ const Footer = () => {
                                 </div>
                             </div>
                         </div> */}
-                         <div className='flex justify-between pb-[20px]'>
-                                <div className='caption1 has-line-before duration-300 w-fit'> <span className="text-button">Mail:</span>  <span className=''>info@seagultrades.com</span></div>
-                                <div className='caption1 has-line-before duration-300 w-fit'><span className="text-button mt-3">Phone:</span><span className='mt-3'>+31687113810 </span></div>
-                                <div className='caption1 has-line-before duration-300 w-fit'><span className="text-button mt-3">Address:</span>   <span className='mt-3 pt-px'>549 Oak St.Crystal Lake, IL 60014</span></div>
-                                <div> <Link className='text-button caption1 has-line-before duration-300 w-fit caption1' href={'/pages/contact'}><span className='text-button'>Contact us</span></Link></div>
-                                
-                                
-                            </div>
+                        <div className='flex justify-between pb-[20px] flex-wrap gap-4'>
+                        <div className='caption1 has-line-before duration-300 w-fit'>
+    <span className="text-button">Phone:</span><br />
+    <a href="tel:+31687113810" className="block">+31625166931 (Netherlands 
+    )</a>
+    <a href="tel:+8801911111111" className="block">+351920101181 (Portugal 
+    )</a>
+    <a href="tel:+8801711111112" className="block">+8801602067318 (Bangladesh 
+    )</a>
+    
+  </div>
+  <div className='caption1 has-line-before duration-300 w-fit'>
+    <span className="text-button">Mail:</span>
+    <span> info@seagultrades.com</span>
+  </div>
+
+  {/* <div className='caption1 has-line-before duration-300 w-fit'>
+    <span className="text-button">Phone:</span><br />
+    <a href="tel:+31687113810" className="block">+31625166931 (Netherlands 
+    )</a>
+    <a href="tel:+8801911111111" className="block">+351920101181 (Portugal 
+    )</a>
+    <a href="tel:+8801711111112" className="block">+8801602067318 (Bangladesh 
+    )</a>
+    
+  </div> */}
+
+  <div className='caption1 has-line-before duration-300 w-fit'>
+    <span className="text-button">Address:</span>
+    <span> 549 Oak St. Crystal Lake, IL 60014</span>
+  </div>
+
+  <div>
+    <Link className='text-button caption1 has-line-before duration-300 w-fit' href={'/pages/contact'}>
+      <span className='text-button'>Contact us</span>
+    </Link>
+  </div>
+</div>
+
                     </div>
                     
                 </div>
